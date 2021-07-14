@@ -1,0 +1,55 @@
+body{
+    background-color: #243b6b;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 15px;
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+h3{
+    font-size: 15px;  
+    text-align: center;  
+}
+
+.experience{
+    color: #50CB93;
+}
+
+.skills{
+    color:#50CB93;
+}
+
+.contact{
+    color:#50CB93;
+}
+
+#twitter{
+    color:rgb(219, 52, 18);
+
+}
+
+#facebook{
+    color:rgb(230, 52, 18);
+
+}
+
+#linkedin{
+    color:rgb(230, 52, 18);
+
+}
+
+#instagram{
+    color:rgb(230, 52, 18);
+
+}
+
+.connect{
+    text-align: center;
+    background-color: #082a72;
+    padding: 10px;
+}
