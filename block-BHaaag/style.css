@@ -1,0 +1,41 @@
+body{
+    background-color: #243b6b;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-size: 15px;    
+}
+
+.experience{
+    color: #50CB93;
+}
+
+.skills{
+    color:#50CB93;
+}
+
+.contact{
+    color:#50CB93;
+}
+
+#twitter{
+    color:rgb(219, 52, 18);
+
+}
+
+#facebook{
+    color:rgb(230, 52, 18);
+
+}
+
+#linkedin{
+    color:rgb(230, 52, 18);
+
+}
+
+#instagram{
+    color:rgb(230, 52, 18);
+
+}
